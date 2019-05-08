@@ -20,4 +20,4 @@
 
 * 数据对象保存（json格式和txt格式）；
 
-* 根据词频生成词云。![wordcloud](https://github.com/shawkui/GRE-Text-Analysis/blob/master/data/wordcloud.png)# GRE-Text-Analysis
+* 根据词频生成词云。![wordcloud](https://github.com/shawkui/GRE-Text-Analysis/blob/master/data/wordcloud.png)
