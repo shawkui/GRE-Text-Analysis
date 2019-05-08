@@ -14,10 +14,10 @@
 
 * 单词计数和排序，简单的统计单词出现的频率并生产词频图（如下）；
 
-  ![freqcurve](.\data\freqcurve.png)
+  ![freqcurve](https://github.com/shawkui/GRE-Text-Analysis/blob/master/data/freqcurve.png)
 
 * 生成常出现的词语搭配（如下）；
 
 * 数据对象保存（json格式和txt格式）；
 
-* 根据词频生成词云。![wordcloud](.\data\wordcloud.png)# GRE-Text-Analysis
+* 根据词频生成词云。![wordcloud](https://github.com/shawkui/GRE-Text-Analysis/blob/master/data/wordcloud.png)# GRE-Text-Analysis
